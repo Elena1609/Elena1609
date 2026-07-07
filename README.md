@@ -2,9 +2,9 @@
 ## Я переводчица и мини-программистка
 
 <p align="center">
-  <img src=" " alt="MIREA 1995">
-  <img src=" " alt="Languages">
-  <img src=" " alt="The Weeknd Fan">
+  <img src="" alt="MIREA 1995">
+  <img src="" alt="Languages">
+  <img src="" alt="The Weeknd Fan">
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ### Мои инструменты
 
-*   **Языки:** Перевод, локализация, техническая документация (EN / DE).
+*   **Языки:** Перевод, локализация, техническая документация (EN / DE) https://www.proz.com/profile/915967
 *   **Разработка:** Базовая верстка, автоматизация небольших задач.
 
 
