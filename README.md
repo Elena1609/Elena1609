@@ -11,7 +11,7 @@
 
 ### 💻Обо мне
 
-Я окончила **МИРЭА** в 1995 году. Владею **английским и немецким языками**. Работала на **Siemens**. MBA от **American Institute of Business and Economics** в Москве с отличием. Мне нравится мини-программирование. Люблю неспешные переводы и простые программки. Люблю учиться всему подряд и прошла много разных курсов на **Coursera** https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES и **Stepik** https://stepik.org/users/414297457/profile.
+Я окончила **МИРЭА** в 1995 году. Владею **английским и немецким языками**. Работала на **Siemens**. MBA от **American Institute of Business and Economics** в Москве с отличием. Мне нравится мини-программирование. Люблю медитировать над переводами и простыми программками. Учусь всему подряд и прошла много разных курсов на **Coursera** https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES и **Stepik** https://stepik.org/users/414297457/profile.
 
 ---
 
